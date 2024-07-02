@@ -1,0 +1,1 @@
+export ANDROID_SDK= /Users/gosai/AppData/Local/Android/Sdk
